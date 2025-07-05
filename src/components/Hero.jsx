@@ -3,10 +3,10 @@ import React from 'react'
 function Hero() {
   return (
     <>
-       <h1>Coffee Tracking for Coffee <abbr title='An enthusiast or devotee'> Fiends</abbr>!</h1>
+       <h1>Track Your Coffee. Know Your Habits.</h1>
        <div className='benefits-list'>
         <h3 className='font-bolder'>
-            Try<span className='text-gradient'> Caffiend</span> and start ...
+            Try<span className='text-gradient'> TrackYourCoffee</span> and start ...
         </h3>
         <p>✅ Tracking every coffee</p>
         <p>✅ Measuring your blood caffeine levels</p>
